@@ -11,8 +11,8 @@
 
 ## Akun Default Untuk Pengujian
 Admin
-    Email:admin@example.com
-    Password:adminpassword
+-Email:admin@example.com
+-Password:adminpassword
 
 User
     Email:User@example.com
@@ -28,12 +28,4 @@ User
 ## Teknologi Yang Digunakan
 -LARAVEL 11
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
