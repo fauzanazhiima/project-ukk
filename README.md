@@ -27,5 +27,8 @@ User
 
 ## Teknologi Yang Digunakan
 -LARAVEL 11
+-BOOSTRAPS
+-XAMPP
+-VSCODE
 
 
