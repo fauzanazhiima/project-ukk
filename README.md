@@ -11,12 +11,12 @@
 
 ## Akun Default Untuk Pengujian
 Admin
--Email:admin@example.com
--Password:adminpassword
+    -Email:admin@example.com
+    -Password:adminpassword
 
 User
-    Email:User@example.com
-    Password: password
+    -Email:User@example.com
+    -Password: password
 
 ## UML
 ![Screenshot 2024-09-24 185005](https://github.com/user-attachments/assets/acc47530-7ae1-47e2-8507-d56dc31c1d16)
